@@ -2,3 +2,9 @@ amazon-ses-api.py
 amazon-ses-smtp.php
 
 *.csv
+*.pkg
+*.json
+*.lock
+*.phar
+
+./vendor/
