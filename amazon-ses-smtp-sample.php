@@ -6,7 +6,7 @@ use PHPMailer\PHPMailer\Exception;
 require "vendor/autoload.php";
 
 $sender = "nuuuukemw@gmail.com";
-$senderName = "Kenshiro king Ata";
+$senderName = "Kenshiro KING Ata";
 
 $recipient = "bugattiveyroooone@icloud.com";
 
