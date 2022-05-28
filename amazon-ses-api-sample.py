@@ -2,9 +2,9 @@ import boto3
 from botocore.exceptions import ClientError
 
 
-SENDER = "Kenshiro Ata <nuuuukemw@gmail.com>"
+SENDER = "Sender Name <to@example.com>"
 
-RECIPIENT = "bugattiveyroooone@icloud.com"
+RECIPIENT = "from@example.com"
 
 # CONFIGURATION_SET = "ConfigSet"
 

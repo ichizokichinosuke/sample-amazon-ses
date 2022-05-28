@@ -5,13 +5,13 @@ use PHPMailer\PHPMailer\Exception;
 
 require "vendor/autoload.php";
 
-$sender = "nuuuukemw@gmail.com";
-$senderName = "Kenshiro KING Ata";
+$sender = "to@example.com";
+$senderName = "sender name";
 
-$recipient = "bugattiveyroooone@icloud.com";
+$recipient = "from@example.com";
 
-$userNameSmtp = "AKIA3XURWB5YWEV5LGVG";
-$passwordSmtp = "BMPFpWoJf/lG9A9c3uJ2PECcPNUsklVVV0c8+CAYuECu";
+$userNameSmtp = "smtp user name";
+$passwordSmtp = "smtp user password";
 
 // $configuretionSet = "ConfigSet";
 
