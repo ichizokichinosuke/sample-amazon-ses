@@ -1,9 +1,9 @@
 amazon-ses-api.py
 amazon-ses-smtp.php
+composer.*
 
 *.csv
 *.pkg
-*.json
 *.lock
 *.phar
 

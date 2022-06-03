@@ -1,0 +1,8 @@
+{
+    "Source": "Kenshiro Ata <bugattiveyroooone@icloud.com>",
+    "Template": "MyTemplate",
+    "Destination": {
+        "ToAddresses": ["nuuuukemw@gmail.com"]
+    },
+    "TemplateData": "{ \"name\":\"Alejandro\", \"favoriteanimal\": \"alligator\" }"
+}

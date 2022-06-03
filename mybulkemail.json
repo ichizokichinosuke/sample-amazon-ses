@@ -1,0 +1,23 @@
+{
+    "Source":"Mary Major <bugattiveyroooone@icloud.com>",
+    "Template":"MyTemplate",
+    "Destinations":[
+      {
+        "Destination":{
+          "ToAddresses":[
+            "nuuuukemw@gmail.com"
+          ]
+        },
+        "ReplacementTemplateData":"{ \"name\":\"Kenshiro\", \"favoriteanimal\":\"lion\" }"
+      },
+      {
+        "Destination":{
+          "ToAddresses":[
+            "bugattiveyroooone@icloud.com"
+          ]
+        },
+        "ReplacementTemplateData":"{ \"name\":\"King\", \"favoriteanimal\":\"tiger\" }"
+      }
+    ],
+    "DefaultTemplateData":"{ \"name\":\"friend\", \"favoriteanimal\":\"unknown\" }"
+  }
